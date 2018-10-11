@@ -5,3 +5,5 @@ Please note that Bike_Dataframe.zip unpacks to quite a large file and if you are
 
 bike_df = pd.read_csv("Bike_Dataframe.csv", error_bad_lines=False)
 
+A project writeup can be found at: 
+https://justinmatters.co.uk/wp/
